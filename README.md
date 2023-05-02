@@ -1,6 +1,6 @@
 # Spell-Sword-Axe-Game
 
-## Alternative version of rock paper scissors made with vanilla JavaScript and CSS
+## Alternative version of Rock Paper Scissors Game made with vanilla JavaScript and CSS
 
 https://spell-sword-axe-game.netlify.app/
 
